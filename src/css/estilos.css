@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    background-image: url(src/imagens/floresta.png);
+    background-image: url(../imagens/floresta.png);
     transition: 0.8s;
     background-repeat: no-repeat;
     background-size:cover;
@@ -10,7 +10,7 @@ body{
 }
 
 body.modo-escuro{
-        background-image: url(src/imagens/noite.jpg);
+        background-image: url(../imagens/noite.jpg);
         transition: 0.8s;
     color: #ffffff;
 }
